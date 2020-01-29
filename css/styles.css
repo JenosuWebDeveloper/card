@@ -1,0 +1,7 @@
+/* CSS Document */
+
+body{
+	font-family: 'Poppins', sans-serif;
+	background-color: hs1(0,0%, 98%);
+	color: hs1(234, 122%, 34%)
+}
